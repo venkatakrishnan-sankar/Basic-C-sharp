@@ -1,0 +1,15 @@
+D:\Assignment\DateAndTime\bin\Debug\net7.0\DateAndTime.exe
+D:\Assignment\DateAndTime\bin\Debug\net7.0\DateAndTime.deps.json
+D:\Assignment\DateAndTime\bin\Debug\net7.0\DateAndTime.runtimeconfig.json
+D:\Assignment\DateAndTime\bin\Debug\net7.0\DateAndTime.dll
+D:\Assignment\DateAndTime\bin\Debug\net7.0\DateAndTime.pdb
+D:\Assignment\DateAndTime\obj\Debug\net7.0\DateAndTime.csproj.AssemblyReference.cache
+D:\Assignment\DateAndTime\obj\Debug\net7.0\DateAndTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\DateAndTime\obj\Debug\net7.0\DateAndTime.AssemblyInfoInputs.cache
+D:\Assignment\DateAndTime\obj\Debug\net7.0\DateAndTime.AssemblyInfo.cs
+D:\Assignment\DateAndTime\obj\Debug\net7.0\DateAndTime.csproj.CoreCompileInputs.cache
+D:\Assignment\DateAndTime\obj\Debug\net7.0\DateAndTime.dll
+D:\Assignment\DateAndTime\obj\Debug\net7.0\refint\DateAndTime.dll
+D:\Assignment\DateAndTime\obj\Debug\net7.0\DateAndTime.pdb
+D:\Assignment\DateAndTime\obj\Debug\net7.0\DateAndTime.genruntimeconfig.cache
+D:\Assignment\DateAndTime\obj\Debug\net7.0\ref\DateAndTime.dll

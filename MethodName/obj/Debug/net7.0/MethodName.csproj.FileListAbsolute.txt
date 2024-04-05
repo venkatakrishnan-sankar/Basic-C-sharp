@@ -1,0 +1,15 @@
+D:\Assignment\MethodName\bin\Debug\net7.0\MethodName.exe
+D:\Assignment\MethodName\bin\Debug\net7.0\MethodName.deps.json
+D:\Assignment\MethodName\bin\Debug\net7.0\MethodName.runtimeconfig.json
+D:\Assignment\MethodName\bin\Debug\net7.0\MethodName.dll
+D:\Assignment\MethodName\bin\Debug\net7.0\MethodName.pdb
+D:\Assignment\MethodName\obj\Debug\net7.0\MethodName.csproj.AssemblyReference.cache
+D:\Assignment\MethodName\obj\Debug\net7.0\MethodName.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\MethodName\obj\Debug\net7.0\MethodName.AssemblyInfoInputs.cache
+D:\Assignment\MethodName\obj\Debug\net7.0\MethodName.AssemblyInfo.cs
+D:\Assignment\MethodName\obj\Debug\net7.0\MethodName.csproj.CoreCompileInputs.cache
+D:\Assignment\MethodName\obj\Debug\net7.0\MethodName.dll
+D:\Assignment\MethodName\obj\Debug\net7.0\refint\MethodName.dll
+D:\Assignment\MethodName\obj\Debug\net7.0\MethodName.pdb
+D:\Assignment\MethodName\obj\Debug\net7.0\MethodName.genruntimeconfig.cache
+D:\Assignment\MethodName\obj\Debug\net7.0\ref\MethodName.dll
